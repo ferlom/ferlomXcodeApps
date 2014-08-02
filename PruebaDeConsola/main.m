@@ -14,7 +14,7 @@ int main(int argc, const char * argv[])
     @autoreleasepool {
         
         // insert code here...
-        NSLog(@"Hola Mundo desde consola en Objecticd C!");
+        NSLog(@"¡ Hola Mundo desde consola en Objective C !");
         
     }
     return 0;
