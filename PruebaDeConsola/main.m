@@ -13,8 +13,9 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"¡ Hola Mundo desde consola en Objective C !");
+        NSString* nombre;
+        nombre = @"Fernando";
+        NSLog(@"¡ Hola Mundo,soy %@ y te saludo desde consola en Objective C !", nombre);
         
     }
     return 0;
